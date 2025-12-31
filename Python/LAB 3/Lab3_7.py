@@ -1,0 +1,6 @@
+A=int(input("Subject 1:"))
+B=int(input("Subject 2:"))
+C=int(input("Subject 3:"))
+D=int(input("Subject 4:"))
+print(A+B+C+D)
+print((A+B+C+D)/4)
